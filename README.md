@@ -1,5 +1,5 @@
 
-# data-enrichment
+# HHA-507 data-enrichment assignment
 
 # loaded in the data from Hospital_Inpatient_Discharges__SPARCS_De-Identified___2015.csv
 # loaded in the data from NY_2015_ADI_9 Digit Zip Code_v3.1.csv
